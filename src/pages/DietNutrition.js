@@ -1,6 +1,6 @@
 import React from 'react';
 import CalorieCalculator from '../components/CalorieCalculator';
-import { Apple, Flame, Award, GlassWater } from 'lucide-react';
+import { Apple,  GlassWater } from 'lucide-react';
 
 const dietPlans = [
   {

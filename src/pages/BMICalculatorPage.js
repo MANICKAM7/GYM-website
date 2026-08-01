@@ -1,6 +1,6 @@
 import React from 'react';
 import BMIForm from '../components/BMIForm';
-import { Award, Info, Heart, Zap } from 'lucide-react';
+import {  Zap } from 'lucide-react';
 
 export default function BMICalculatorPage() {
   return (
@@ -53,7 +53,7 @@ export default function BMICalculatorPage() {
 
             <div className="bmi-features-benefits">
               <div className="benefit-item">
-                <Heart size={20} className="text-red" />
+                {/* <Heart size={20} className="text-red" /> */}
                 <span>Optimize cardiovascular stamina by maintaining a healthy weight.</span>
               </div>
               <div className="benefit-item">

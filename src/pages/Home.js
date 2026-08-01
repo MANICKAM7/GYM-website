@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { Dumbbell, Shield, Award, Users, ArrowRight, Play, Star } from 'lucide-react';
+import { Dumbbell, Shield, Award, Users, ArrowRight, Play,} from 'lucide-react';
 import ProgramCard from '../components/ProgramCard';
 import TrainerCard from '../components/TrainerCard';
 import PricingCard from '../components/PricingCard';

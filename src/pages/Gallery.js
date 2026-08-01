@@ -1,7 +1,7 @@
 import React from 'react';
 import GalleryGrid from '../components/GalleryGrid';
 import TransformationSection from '../components/TransformationSection';
-import { BookOpen, Clock, ChevronRight } from 'lucide-react';
+import {  Clock, ChevronRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const blogArticles = [

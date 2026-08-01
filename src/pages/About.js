@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Target, Zap, ShieldCheck, Heart, Award, Cpu } from 'lucide-react';
+import { Target, Zap, ShieldCheck,  Cpu } from 'lucide-react';
 
 export default function About() {
   const coreValues = [
