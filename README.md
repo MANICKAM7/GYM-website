@@ -6,7 +6,7 @@ Our gym is designed for people who are serious about improving their health and 
 
 ## 🌐 Live Demo
 
-👉 Live Demo : **[GYM Website](https://manickam-fitness.netlify.app/)**
+👉 Live Demo : **[GYM Website.in](https://manickam-fitness.netlify.app/)**
 
 ## 📸 Preview
 
