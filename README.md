@@ -2,15 +2,17 @@
 
 A modern and responsive **GYM Website** built with **React.js**, designed to provide a clean and engaging fitness-focused user experience.
 
+Our gym is designed for people who are serious about improving their health and fitness. Whether you are a beginner or an experienced athlete, we provide the environment, equipment, and guidance you need to reach your goals.
+
 ## 🌐 Live Demo
 
-👉 **[View Live Website](https://manickam-fitness.netlify.app/)**
+👉 Live Demo : **[GYM Website](https://manickam-fitness.netlify.app/)**
 
 ## 📸 Preview
 
 ![image_alt](https://github.com/MANICKAM7/GYM-website/blob/6d614a712ff49b8a72d4bb63dd71045ef240c88e/Screenshot%20(100).png)
 ![image_alt](https://github.com/MANICKAM7/GYM-website/blob/122e5ecbc48b1147b8fa1018f9605754fad33d3c/Screenshot%20(101).png)
-
+![image_alt](https://github.com/MANICKAM7/GYM-website/blob/bb83c70b8ea69aa4a30eb890f415f6795ae5ac4e/Screenshot%20(102).png)
 
 
 ## 🚀 Features
