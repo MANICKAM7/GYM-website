@@ -9,7 +9,7 @@ A modern and responsive **GYM Website** built with **React.js**, designed to pro
 ## 📸 Preview
 
 https://github.com/MANICKAM7/GYM-website/blob/6d614a712ff49b8a72d4bb63dd71045ef240c88e/Screenshot%20(100).png
-
+https://github.com/MANICKAM7/GYM-website/blob/main/Screenshot%20(101).png?raw=true
 
 ## 🚀 Features
 
